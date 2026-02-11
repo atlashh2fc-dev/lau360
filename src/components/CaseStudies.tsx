@@ -5,17 +5,17 @@ const CASES = [
     title: 'Pyme de servicios operativos',
     meta: 'Proceso B2B multi-actor · urgencia por plazos',
     context: 'Necesidad de ordenar proveedores y acelerar cierres en un entorno con múltiples interlocutores.',
-    pain: 'Seguimiento reactivo y documentación dispersa: el proceso perdía ritmo y se re-trabajaba.',
+    pain: 'Caos de interlocutores. El proceso se dilata y se pierde control.',
     action: 'Brief operativo, responsables por hito, consolidación documental y seguimiento en un solo hilo.',
-    result: 'Mayor control del avance y decisiones con condiciones comparables, sin fricción operativa.',
+    result: 'Un solo hilo conductor. Cierre acelerado y trazabilidad total.',
   },
   {
     title: 'Renovación de seguros corporativos',
     meta: 'Comparabilidad de cobertura · control de condiciones',
     context: 'Evaluación y renovación con necesidad de claridad total en cobertura, exclusiones y responsabilidades.',
-    pain: 'Riesgo de letra chica tardía y comparaciones incompletas que alargan la decisión.',
+    pain: 'Opacidad en condiciones. Riesgo de letra chica y sobrecostos.',
     action: 'Estructura comparativa, validación de condiciones y documentación centralizada para aprobación.',
-    result: 'Renovación con trazabilidad y menor exposición a cambios de última hora.',
+    result: 'Transparencia absoluta. Comparativa nivelada y decisión segura.',
   },
 ] as const;
 
@@ -32,10 +32,10 @@ export default function CaseStudies() {
           <div className="lg:col-span-4">
             <h2 className="text-2xl font-bold tracking-[-0.01em] sm:text-3xl">
               <span className="text-gradient">Casos</span>{' '}
-              <span className="text-slate-50">(dossier)</span>
+              <span className="text-slate-50">(impacto real)</span>
             </h2>
             <p className="mt-4 text-sm leading-relaxed text-slate-300">
-              No inventamos testimonios. Mostramos el tipo de intervención y el impacto esperado.
+              Evidencia de control. Transformamos fricción operativa en resultados medibles.
             </p>
 
             {/* Professional image */}
@@ -55,7 +55,7 @@ export default function CaseStudies() {
                   <div className="flex flex-col gap-3 sm:flex-row sm:items-baseline sm:justify-between">
                     <div>
                       <p className="text-[11px] font-bold tracking-[0.26em] text-cyan-400/80">
-                        DOSSIER {(idx + 1).toString().padStart(2, '0')}
+                        CASO {(idx + 1).toString().padStart(2, '0')}
                       </p>
                       <h3 className="mt-3 text-xl font-bold tracking-[-0.01em] text-slate-100 sm:text-2xl">
                         {c.title}

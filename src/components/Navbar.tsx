@@ -6,7 +6,6 @@ const NAV = [
   { id: 'industrias', label: 'Industrias' },
   { id: 'casos', label: 'Casos' },
   { id: 'faq', label: 'FAQ' },
-  { id: 'contacto', label: 'Contacto' },
 ] as const;
 
 function scrollToSection(id: string) {

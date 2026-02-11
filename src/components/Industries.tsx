@@ -78,8 +78,7 @@ export default function Industries() {
               Dónde operamos
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-slate-600">
-              El rubro cambia. La lógica no: múltiples actores, condiciones variables y necesidad
-              de trazabilidad en decisiones B2B.
+              No importa el rubro, importa el control. Llevamos orden ejecutivo a procesos complejos donde el error cuesta caro.
             </p>
           </motion.div>
         </div>
@@ -142,7 +141,7 @@ export default function Industries() {
           className="mt-12 text-center"
         >
           <p className="text-sm text-slate-500 font-medium">
-            No limitamos por rubro; limitamos por seriedad del proceso y claridad del objetivo.
+            Nexo no vende insumos; vende certidumbre operativa.
           </p>
         </motion.div>
       </div>

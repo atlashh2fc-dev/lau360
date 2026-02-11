@@ -123,7 +123,7 @@ export default function Hero() {
               data-hero="k"
               className="text-[11px] font-bold tracking-[0.28em] text-cyan-400/80"
             >
-              NEXO ASESORES · CAPA EJECUTIVA DE INTERMEDIACIÓN B2B
+              NEXO ASESORES · TU CANAL DE CONEXIÓN ESTRATÉGICA B2B
             </p>
 
             <h1
@@ -131,7 +131,7 @@ export default function Hero() {
               className="mt-7 text-balance text-5xl font-bold leading-[1.05] tracking-[-0.03em] sm:text-6xl lg:text-7xl"
             >
               <span className="gradient-text">
-                Intermediación inteligente
+                Conexión estratégica
               </span>{' '}
               <span className="text-slate-50">
                 para cerrar negocios sin fricción.
@@ -144,9 +144,8 @@ export default function Hero() {
                   data-hero="k"
                   className="text-pretty text-base leading-relaxed text-slate-200 sm:text-lg"
                 >
-                  Nexo es una capa ejecutiva de criterio, coordinación y trazabilidad para
-                  decisiones B2B. Tú defines el objetivo; nosotros estructuramos el proceso y lo
-                  llevamos hasta ejecución.
+                  Actuamos como tu brazo derecho comercial. Tú tienes una necesidad; nosotros activamos
+                  la solución exacta en nuestra red. Sin costos ocultos para ti.
                 </p>
               </div>
               <div className="lg:col-span-5">

@@ -4,7 +4,7 @@ import { gsap, usePrefersReducedMotion } from '../lib/gsap';
 const FAQS = [
   {
     q: '¿Ustedes son una agencia o un broker?',
-    a: 'Actuamos como agentes comerciales independientes. Intermediamos y coordinamos soluciones con actores del mercado, manteniendo trazabilidad y control operativo.',
+    a: 'Somos facilitadores. Conectamos necesidades con soluciones probadas. No encarecemos el servicio; lo hacemos más fluido.',
   },
   {
     q: '¿Trabajan con una sola industria?',
@@ -12,7 +12,7 @@ const FAQS = [
   },
   {
     q: '¿Cómo cobran?',
-    a: 'Operamos por comisión según acuerdo. Cuando aplica, la comisión puede estar asociada al cierre, a la gestión o a la intermediación con proveedores.',
+    a: 'Para ti, el servicio no tiene costo. Nuestro modelo de negocio se basa en la gestión con los proveedores, no en cobrarle a quien tiene la necesidad.',
   },
   {
     q: '¿Qué necesito para empezar?',

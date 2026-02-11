@@ -24,8 +24,8 @@ export default function WhatWeDo() {
             <span className="text-slate-50">Nexo</span>
           </h2>
           <p className="mt-6 max-w-3xl text-pretty text-base leading-relaxed text-slate-200 sm:text-lg">
-            Convierte un proceso B2B fragmentado en una operación con responsables, criterios y
-            trazabilidad. Menos conversación suelta. Más avance verificable.
+            Somos tu facilitador. Simplificamos la búsqueda y validación de proveedores para que tú solo tomes decisiones.
+            Menos conversación suelta. Más avance verificable.
           </p>
         </header>
 
@@ -42,11 +42,11 @@ export default function WhatWeDo() {
               </div>
 
               <p className="mt-6 text-[11px] font-bold tracking-[0.26em] text-cyan-400/80">
-                INTERMEDIACIÓN
+                CONEXIÓN A MEDIDA
               </p>
               <p className="mt-4 text-sm leading-relaxed text-slate-200">
-                Conecta tu necesidad con alternativas reales del mercado, comparables entre sí.
-                Filtra ruido y reduce incertidumbre.
+                No somos un broker externo; somos tu facilitador. Te acercamos a la solución ideal
+                sin que tengas que pagar por la gestión.
               </p>
             </div>
           </div>
